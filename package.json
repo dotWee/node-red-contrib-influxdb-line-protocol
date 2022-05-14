@@ -34,7 +34,5 @@
     "node-red": "^2.2.2",
     "node-red-node-test-helper": "^0.2.7"
   },
-  "dependencies": {
-    "node-red-contrib-influxdb-line-protocol": "file:"
-  }
+  "dependencies": {}
 }
